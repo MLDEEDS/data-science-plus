@@ -69,3 +69,43 @@
     - Project: House Prices Prediction
 
 </details>
+
+<details>
+  <summary><b>Deep Learning Applications</b></summary>
+
+- Convolutional Neural Networks (CNNs)
+  - Intro
+    - Computer Vision
+    - Operations
+      - Convolution
+      - Max-Pooling
+  - Image Datasets
+    - Main Features
+    - Data Pre-processing
+    - Data Augmentation
+      - Enlarging Datasets
+  - Network Architecture
+    - Layers
+    - Functionality
+  - Feature Extraction
+  - Transfer Learning
+    - Fine-tuning
+  - Real-world Applications
+  - Project: Numbers/Digits Classification based on Visual Features
+- Recurrent Neural Networks (RNNs)
+  - Intro
+    - Text Data
+    - Sequence Data
+    - Time Series
+    - VIdeos
+  - Network Architecture
+    - Layers
+    - Functionality
+  - Long-Short Term Memory
+  - Gated Recurrent Unit
+  - Techniques
+    - One-hot Encoding of Text Data
+    - Word Embedding
+    - Dropout to Prevent Overfitting
+
+</details>
